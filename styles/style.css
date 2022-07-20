@@ -170,20 +170,20 @@ margin-bottom: 130px;
 /* Container Section End */
 
 /* Footer Style Start  */
- footer{
+footer{
   width: 100%;
   height: 444px;
   background-color: #161616;
   position: relative;
   margin-top: 130px;
- }
- .footer{
+}
+.footer{
   text-align: center;
   position: absolute;
   transform: translate(-50%, -50%);
   top: 50%;
   left: 50%;
- }
+}
 .footer h3{
   color: #fff;
   font-size: 40px;
@@ -211,27 +211,6 @@ hr{
 .social-icon{
   font-size: 20px;
   color: #fff;
-}
-
-footer{
-  width: 100%;
-}
-.footer a{
- display: block;
- margin-bottom: 10px;
- text-align: center;
- margin-right: 0;
-}
-.social{
-display:flex;
-justify-content: center;
-}
-.social a{
- margin-left: 10px;
-}
-
-.social{
-  display: none;
 }
 /* Footer Style End  */
 
